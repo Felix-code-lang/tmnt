@@ -1,0 +1,10 @@
+.catalog-items{
+display:flex;
+flex-wrap:wrap;
+justify-content:space-around ;
+align-items:center;
+
+    img{
+        height: 250px;
+    }
+}
